@@ -1,4 +1,4 @@
-# Hello there! 👋🏻 I am Modasserul H. Jasim ! <img src="programming.gif.gif" alt="Programming" width="70" />
+# Hello there! 👋🏻 I am Modasserul H Jasim ! <img src="programming.gif.gif" alt="Programming" width="70" />
 
 
 <a href="https://www.instagram.com/modasserjasim/">
@@ -7,8 +7,8 @@
 <a href="https://twitter.com/modasserjasim">
   <img align="left" alt="Modasserul H. Jasim | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/modasserjasim">
-  <img align="left" alt="Modasserul H. Jasim | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+<a href="https://www.facebook.com/JasimCSE">
+  <img align="left" alt="Modasserul H Jasim | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 
 
