@@ -1,48 +1,52 @@
-# Hello there! 👋🏻 I am Modasserul H Jasim ! <img src="programming.gif.gif" alt="Programming" width="70" />
+<h1 align="left">Hey there! 👋 I'm Modasserul H. Jasim</h1>
 
+<img align="right" src="https://github.com/modasserjasim/modasserjasim/blob/main/code.gif?raw=true" alt="Computer Coding" width="400"/>
 
 <a href="https://www.instagram.com/modasserjasim/">
-  <img align="left" alt="Modasserul H. Jasim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Instagram" width="28px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/modasserjasim">
-  <img align="left" alt="Modasserul H. Jasim | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Twitter / X" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
 </a>
 <a href="https://www.facebook.com/JasimCSE">
-  <img align="left" alt="Modasserul H Jasim | Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img alt="Facebook" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" />
 </a>
 
+<br/><br/>
 
-<br /> <br />
+Hi, I'm [**Modasser**](https://modasserjasim.com/), a **self-taught Full Stack Web Developer** and **freelance Software Engineer** from **Bangladesh 🇧🇩**.  
+I’m passionate about crafting clean code, smooth user experiences, and powerful web applications.
 
-Hi, I'm [Modasser](https://modasserjasim.com/), a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-<br />
+I bring ideas to life with strong architecture, clean design, and performance-focused builds.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-<br /><br />
+I'm also a proud **open-source contributor** — learning and giving back through collaboration and community. 
 
-<img align="right" alt="GIF" src="https://github.com/modasserjasim/modasserjasim/blob/main/code.gif?raw=true" width="500" height="320" />
+<hr style="height:1px;border:none;background-color:#e0e0e0;" />
 
+- 💼 Available for freelance projects – feel free to reach out!  
+- 💬 Ask me anything – I love helping fellow devs.
 
-- 💼 any freelance work? do reach :)
-- 💬 ask me about anything, I am happy to help;
-<br /><br />
+<hr style="height:1px;border:none;background-color:#e0e0e0;" />
 
-**languages and tools:** 
-<br />
+### 🧰 Tech Stack & Tools I Use
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://www.fileeagle.com/data/2021/06/SQLite.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" title="HTML5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" title="CSS3"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" title="Tailwind CSS"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" title="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" title="PHP"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" title="WordPress"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" title="React"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" title="Express.js"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" title="Node.js"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" title="MongoDB"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" title="Python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" title="Django"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" title="Git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png" title="macOS"></code>
+
+---
+
+⭐ **Thanks for visiting! Let's build something awesome together.**
